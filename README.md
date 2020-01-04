@@ -9,3 +9,5 @@ The digits are first trained one by one using large sets of images of handwritte
 Recognition is then applied to a few self made digits and larger sets of other hand written digits to get data of the accuracy of the recognition. 
 
 The program plots data from recognizing accuracy and time complexity, first few eigenstates from recognition of 0 and 1, the self made digits and in the end the data of the accuracy of recognition.
+
+Running the program may take a couple of minutes.
