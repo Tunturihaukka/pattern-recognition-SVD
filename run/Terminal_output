@@ -1,0 +1,45 @@
+./SciComp3/polus_aku_sc3_project2/src$ make
+python3 project2.py
+Digit  0  in training
+Digit  1  in training
+Digit  2  in training
+Digit  3  in training
+Digit  4  in training
+Digit  5  in training
+Digit  6  in training
+Digit  7  in training
+Digit  8  in training
+Digit  9  in training
+
+k-cutoff was chosen to:  54
+
+Best value for k is  2
+
+Digit number  1  of tested images is recognized as:  0
+
+Digit number  2  of tested images is recognized as:  0
+
+Digit number  1  of tested images is recognized as:  1
+
+Digit number  2  of tested images is recognized as:  1
+
+48 / 50 of digits were correctly recognized as  0
+
+47 / 50 of digits were correctly recognized as  1
+
+41 / 50 of digits were correctly recognized as  2
+
+45 / 50 of digits were correctly recognized as  3
+
+42 / 50 of digits were correctly recognized as  4
+
+39 / 50 of digits were correctly recognized as  5
+
+48 / 50 of digits were correctly recognized as  6
+
+42 / 50 of digits were correctly recognized as  7
+
+45 / 50 of digits were correctly recognized as  8
+
+42 / 50 of digits were correctly recognized as  9
+
